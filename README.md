@@ -1,5 +1,5 @@
 # Sit In Chair Component
-<img width="960" alt="COMBAT COMPONENT (1)" src="https://github.com/user-attachments/assets/af2aa81b-bde8-4a6e-a671-bd7196c4b526">
+<img width="960" alt="1" src="https://github.com/user-attachments/assets/2a370707-ae2d-4e75-8c03-2e324902476f" />
 
-Go to the [wiki](https://github.com/dylogaming/CombatComponent/wiki) for documentation
+Go to the [wiki]([https://github.com/dylogaming/CombatComponent/wiki](https://github.com/dylogaming/SitInChairComponent/wiki)) for documentation
 
